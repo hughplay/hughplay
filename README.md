@@ -1,1 +1,2 @@
-[![Mr.Blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=hughplay)](https://github.com/hughplay)
+| <a href="https://github.com/hughplay"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hughplay&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mr.Blue's github stats" /></a> | <a href="https://github.com/hughplay"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hughplay&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
